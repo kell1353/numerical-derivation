@@ -1,4 +1,4 @@
-# Project Overview
+# Overview
 The program takes an individual real number (chosen by the user) and calculates the numerical second 
 derivative of f(x)= x*sin(x) using both the Symmetric Euler 3-point and 
 Euler 5-point approximations to the derivative given a specified h_step.
